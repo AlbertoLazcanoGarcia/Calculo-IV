@@ -10,7 +10,6 @@ El contenido está orientado al estudio de cálculo vectorial y geometría en va
 
 Actualmente el repositorio incluye notas y recursos sobre los siguientes temas:
 
-- Curvas en $\mathbb{R}^3$
 - Sistemas de coordenadas
 - Parametrización de superficies
 - Teorema de Stokes
@@ -28,6 +27,8 @@ Además de las notas teóricas, el repositorio contiene:
   - Green
   - Stokes
   - Gauss
+- Diferencia entre frontera de una superfice y una región en $\mathbb{R}^3$
+- Uso y aplicaciones sobre el teorema de Gauss.
 
 ---
 
